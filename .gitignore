@@ -1,0 +1,5 @@
+# Ignorar arquivos temporários do sistema
+.DS_Store
+
+# Ignorar arquivos texto
+# *.txt
